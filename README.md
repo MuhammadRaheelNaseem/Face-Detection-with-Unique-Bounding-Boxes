@@ -1,5 +1,3 @@
-### README
-
 # Face Detection with Unique Bounding Boxes
 
 This repository contains scripts for detecting faces in images and video streams using OpenCV and drawing unique bounding boxes around detected faces. The unique bounding boxes are created using a combination of lines and ellipses to give a more distinctive appearance.
