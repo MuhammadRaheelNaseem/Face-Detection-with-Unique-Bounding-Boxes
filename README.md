@@ -29,7 +29,8 @@ This script reads an image, detects faces, and draws unique bounding boxes aroun
 
 #### Code
 
-```pythonimport cv2
+```python
+import cv2
 import matplotlib.pyplot as plt
 import numpy as np
 
